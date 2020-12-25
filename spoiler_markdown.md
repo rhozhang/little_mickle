@@ -1,9 +1,8 @@
 # spoiler in markdown
 
 <details> 
-  <summary>Q1: What is the best Language in the World? </summary>   
-   C   
-   Java      
-   Julia      
-   R
+  <summary>Q: What is log(128, 2)</summary>   
+   ```r
+   log(128)/log(2)
+   ```
 </details>
